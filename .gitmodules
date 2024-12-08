@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/marioangst/marioangst.r-universe.dev
 	branch = HEAD
+[submodule "diskurs"]
+	path = diskurs
+	url = https://github.com/urban-sustainability-lab-zurich/diskurs
 [submodule "motifr"]
 	path = motifr
 	url = https://github.com/marioangst/motifr
+[submodule "rayab"]
+	path = rayab
+	url = https://github.com/marioangst/rayab
